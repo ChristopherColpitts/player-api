@@ -2,7 +2,7 @@
  back-end codeigniter API for JSON player uploader
 	
 	
-	<b>Project setup</b>
+	Project setup
 	Run on WAMP stack or similar
 	Place project in root directory
 	Project should run at Http://localhost
